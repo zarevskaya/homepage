@@ -535,7 +535,15 @@
     },
     "hdhomerun": {
         "channels": "Canali",
-        "hd": "HD"
+        "hd": "HD",
+        "tunerCount": "Tuners",
+        "channelNumber": "Channel",
+        "channelNetwork": "Network",
+        "signalStrength": "Strength",
+        "signalQuality": "Quality",
+        "symbolQuality": "Quality",
+        "networkRate": "Bitrate",
+        "clientIP": "Client"
     },
     "scrutiny": {
         "passed": "Passati",
@@ -693,6 +701,11 @@
         "targets_up": "Target Attivi",
         "targets_down": "Target Non Attivi",
         "targets_total": "Targets Totali"
+    },
+    "gatus": {
+        "up": "Siti On",
+        "down": "Siti Down",
+        "uptime": "Tempo di attività"
     },
     "ghostfolio": {
         "gross_percent_today": "Oggi",

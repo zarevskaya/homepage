@@ -535,7 +535,15 @@
     },
     "hdhomerun": {
         "channels": "Kanallar",
-        "hd": "HD"
+        "hd": "HD",
+        "tunerCount": "Tuners",
+        "channelNumber": "Channel",
+        "channelNetwork": "Network",
+        "signalStrength": "Strength",
+        "signalQuality": "Quality",
+        "symbolQuality": "Quality",
+        "networkRate": "Bit Oranı",
+        "clientIP": "Client"
     },
     "scrutiny": {
         "passed": "Geçti",
@@ -693,6 +701,11 @@
         "targets_up": "Targets Up",
         "targets_down": "Targets Down",
         "targets_total": "Total Targets"
+    },
+    "gatus": {
+        "up": "Sites Up",
+        "down": "Sites Down",
+        "uptime": "Çalışma Süresi"
     },
     "ghostfolio": {
         "gross_percent_today": "Today",

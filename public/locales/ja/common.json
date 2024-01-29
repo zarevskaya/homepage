@@ -535,7 +535,15 @@
     },
     "hdhomerun": {
         "channels": "チャンネル",
-        "hd": "HD"
+        "hd": "HD",
+        "tunerCount": "Tuners",
+        "channelNumber": "Channel",
+        "channelNetwork": "Network",
+        "signalStrength": "Strength",
+        "signalQuality": "Quality",
+        "symbolQuality": "Quality",
+        "networkRate": "ビットレート",
+        "clientIP": "Client"
     },
     "scrutiny": {
         "passed": "合格",
@@ -693,6 +701,11 @@
         "targets_up": "ターゲットUp",
         "targets_down": "ターゲット Down",
         "targets_total": "ターゲット合計"
+    },
+    "gatus": {
+        "up": "サイトUp",
+        "down": "サイトDown",
+        "uptime": "稼働時間"
     },
     "ghostfolio": {
         "gross_percent_today": "今日",

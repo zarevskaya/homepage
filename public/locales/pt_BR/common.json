@@ -535,7 +535,15 @@
     },
     "hdhomerun": {
         "channels": "Canais",
-        "hd": "HD"
+        "hd": "HD",
+        "tunerCount": "Tuners",
+        "channelNumber": "Channel",
+        "channelNetwork": "Network",
+        "signalStrength": "Strength",
+        "signalQuality": "Quality",
+        "symbolQuality": "Quality",
+        "networkRate": "Taxa de bits",
+        "clientIP": "Client"
     },
     "scrutiny": {
         "passed": "Aprovado",
@@ -693,6 +701,11 @@
         "targets_up": "Alvo ativo",
         "targets_down": "Alvo inativo",
         "targets_total": "Total de Alvos"
+    },
+    "gatus": {
+        "up": "Sites no Ar",
+        "down": "Sites Fora do Ar",
+        "uptime": "Ligado"
     },
     "ghostfolio": {
         "gross_percent_today": "Today",

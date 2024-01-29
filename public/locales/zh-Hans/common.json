@@ -535,7 +535,15 @@
     },
     "hdhomerun": {
         "channels": "频道",
-        "hd": "HD"
+        "hd": "HD",
+        "tunerCount": "Tuners",
+        "channelNumber": "Channel",
+        "channelNetwork": "Network",
+        "signalStrength": "Strength",
+        "signalQuality": "Quality",
+        "symbolQuality": "Quality",
+        "networkRate": "码率",
+        "clientIP": "Client"
     },
     "scrutiny": {
         "passed": "通过",
@@ -693,6 +701,11 @@
         "targets_up": "上线目标",
         "targets_down": "离线目标",
         "targets_total": "目标总数"
+    },
+    "gatus": {
+        "up": "在线网站",
+        "down": "离线网站",
+        "uptime": "运行时间"
     },
     "ghostfolio": {
         "gross_percent_today": "今日",

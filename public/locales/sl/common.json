@@ -535,7 +535,15 @@
     },
     "hdhomerun": {
         "channels": "Kanali",
-        "hd": "HD"
+        "hd": "HD",
+        "tunerCount": "Sprejemniki",
+        "channelNumber": "Kanal",
+        "channelNetwork": "Omrežje",
+        "signalStrength": "Moč",
+        "signalQuality": "Kakovost",
+        "symbolQuality": "Kakovost",
+        "networkRate": "Pasovna širina",
+        "clientIP": "Odjemalec"
     },
     "scrutiny": {
         "passed": "Opravljeno",
@@ -694,6 +702,11 @@
         "targets_down": "Tarče dol",
         "targets_total": "Skupaj tarč"
     },
+    "gatus": {
+        "up": "Deluje",
+        "down": "Ne deluje",
+        "uptime": "Čas delovanja"
+    },
     "ghostfolio": {
         "gross_percent_today": "Danes",
         "gross_percent_1y": "Eno leto",
@@ -797,8 +810,8 @@
         "noEventsFound": "Ni dogodkov"
     },
     "romm": {
-        "platforms": "Platforms",
-        "totalRoms": "Total ROMs"
+        "platforms": "Platforme",
+        "totalRoms": "Skupaj ROM-ov"
     },
     "netdata": {
         "warnings": "Opozorila",

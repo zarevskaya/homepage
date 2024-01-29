@@ -11,7 +11,7 @@
         "percent": "{{value, percent}}",
         "number": "{{value, number}}",
         "ms": "{{value, number}}",
-        "date": "{value, date}",
+        "date": "{{value, date}}",
         "relativeDate": "{{value, relativeDate}}",
         "uptime": "{{value, uptime}}",
         "months": "mes",
@@ -135,8 +135,8 @@
         "connectionStatusDisconnected": "Odpojené",
         "connectionStatusConnected": "Pripojené",
         "uptime": "Prevádzka",
-        "maxDown": "Max. Down",
-        "maxUp": "Max. Up",
+        "maxDown": "Max. sťahovanie",
+        "maxUp": "Max. nahrávanie",
         "down": "Sťahovanie",
         "up": "Nahrávanie",
         "received": "Prijaté",
@@ -535,7 +535,15 @@
     },
     "hdhomerun": {
         "channels": "Kanály",
-        "hd": "HD"
+        "hd": "HD",
+        "tunerCount": "Tuners",
+        "channelNumber": "Channel",
+        "channelNetwork": "Network",
+        "signalStrength": "Strength",
+        "signalQuality": "Quality",
+        "symbolQuality": "Quality",
+        "networkRate": "Prenosová rýchlosť",
+        "clientIP": "Client"
     },
     "scrutiny": {
         "passed": "Úspešný",
@@ -694,6 +702,11 @@
         "targets_down": "Nedostupné ciele",
         "targets_total": "Cieľov spolu"
     },
+    "gatus": {
+        "up": "Weby dostupné",
+        "down": "Weby nedostupné",
+        "uptime": "Prevádzka"
+    },
     "ghostfolio": {
         "gross_percent_today": "Dnes",
         "gross_percent_1y": "Jeden rok",
@@ -797,11 +810,11 @@
         "noEventsFound": "Žiadne udalosti"
     },
     "romm": {
-        "platforms": "Platforms",
-        "totalRoms": "Total ROMs"
+        "platforms": "Platformy",
+        "totalRoms": "Celkovo ROM"
     },
     "netdata": {
-        "warnings": "Warnings",
-        "criticals": "Criticals"
+        "warnings": "Upozornenia",
+        "criticals": "Kritické"
     }
 }

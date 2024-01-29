@@ -535,7 +535,15 @@
     },
     "hdhomerun": {
         "channels": "Kanalen",
-        "hd": "HD"
+        "hd": "HD",
+        "tunerCount": "Tuners",
+        "channelNumber": "Kanaal",
+        "channelNetwork": "Netwerk",
+        "signalStrength": "Sterkte",
+        "signalQuality": "Kwaliteit",
+        "symbolQuality": "Kwaliteit",
+        "networkRate": "Bitrate",
+        "clientIP": "Client"
     },
     "scrutiny": {
         "passed": "Geslaagd",
@@ -693,6 +701,11 @@
         "targets_up": "Doelen bereikbaar",
         "targets_down": "Doelen onbereikbaar",
         "targets_total": "Totaal aantal doelen"
+    },
+    "gatus": {
+        "up": "Sites Bereikbaar",
+        "down": "Sites Onbereikbaar",
+        "uptime": "Online"
     },
     "ghostfolio": {
         "gross_percent_today": "Vandaag",

@@ -535,7 +535,15 @@
     },
     "hdhomerun": {
         "channels": "Kanäle",
-        "hd": "HD"
+        "hd": "HD",
+        "tunerCount": "Empfänger",
+        "channelNumber": "Kanal",
+        "channelNetwork": "Netzwerk",
+        "signalStrength": "Stärke",
+        "signalQuality": "Qualität",
+        "symbolQuality": "Qualität",
+        "networkRate": "Bitrate",
+        "clientIP": "Client"
     },
     "scrutiny": {
         "passed": "Bestanden",
@@ -694,6 +702,11 @@
         "targets_down": "Ziele Down",
         "targets_total": "Alle Ziele"
     },
+    "gatus": {
+        "up": "Seiten verfügbar",
+        "down": "Seiten nicht verfügbar",
+        "uptime": "Betriebszeit"
+    },
     "ghostfolio": {
         "gross_percent_today": "Heute",
         "gross_percent_1y": "Ein Jahr",
@@ -797,8 +810,8 @@
         "noEventsFound": "Keine Termine gefunden"
     },
     "romm": {
-        "platforms": "Platforms",
-        "totalRoms": "Total ROMs"
+        "platforms": "Plattformen",
+        "totalRoms": "ROMs gesamt"
     },
     "netdata": {
         "warnings": "Warnungen",
